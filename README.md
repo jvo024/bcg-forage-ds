@@ -21,3 +21,13 @@ We were able to accept this hypothesis and found that 10% of the customer base c
 Using the information gathered from the initial EDA, we further cleaned the datasets and created additional features to help create an accurate predictive model.
 While our random forest model had a high level of accuracy and precision, the recall score was not accepted. We determined that while the data shows high price sensitivity, we would need to further look into more features and data to provide conclusive evidence that fully proves the hypothesis.
 
+---
+
+## Credits
+
+BCG Virtual Experience Program (2022)
+
+Participated in the open access BCG Virtual Experience Program with Forage. 
+Link can be found here: https://careers.bcg.com/virtual-experience
+ 
+
